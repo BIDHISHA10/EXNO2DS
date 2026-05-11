@@ -43,11 +43,6 @@ df.info()
 <img width="377" height="337" alt="image" src="https://github.com/user-attachments/assets/024f06f1-240d-4f21-8cec-24ba4a74db79" />
 
 ```
-df.shape
-```
-<img width="187" height="52" alt="image" src="https://github.com/user-attachments/assets/fe66df44-b29b-4812-b7c0-9bc084e192fc" />
-
-```
 df.set_index("PassengerId",inplace=True)
 df.describe()
 ```
